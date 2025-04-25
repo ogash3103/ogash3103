@@ -41,7 +41,6 @@ I'm an aspiring backend developer currently diving deep into C# and .NET technol
 
 ### 📫 How to reach me:
 
-- Telegram: [@faxriddinov_031](https://t.me/@faxriddinov_031)
 - Email: faxogabek@gmail.com
 - LinkedIn: - LinkedIn: [ogabek-faxriddinov]([https://www.linkedin.com/in/ogabek-faxriddinov/](https://www.linkedin.com/in/og-abek-faxriddinov-120b6a258/))
  

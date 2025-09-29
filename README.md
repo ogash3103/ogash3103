@@ -1,14 +1,14 @@
 ### 👋 Hi, I'm Faxriddinov Og'abek!
 
-I'm an aspiring backend developer currently diving deep into C# and .NET technologies. I love building all kinds of projects – from basic apps to more advanced systems. I'm always curious and motivated to explore new tech and improve my skills every day.
+I'm an aspiring backend developer currently diving deep into Flutter technologies. I love building all kinds of projects – from basic apps to more advanced systems. I'm always curious and motivated to explore new tech and improve my skills every day.
 
-🎓 I'm currently a 3rd-year student at **PDP University**, majoring in **Software Engineering**. Studying and applying what I learn through real projects helps me grow both academically and professionally.
+🎓 I'm currently a 4rd-year student at **PDP University**, majoring in **Software Engineering**. Studying and applying what I learn through real projects helps me grow both academically and professionally.
 
 ---
 
 ### 💻 Technologies I work with:
 
-- ⚙️ **C#**, **.NET backend development**
+- ⚙️ **Dart**, **.Flutter Mobile development**
 - 📱 **Flutter** – building cross-platform mobile apps
 - 💡 **Arduino** – creating smart IoT solutions
 - 🛢️ **PostgreSQL** – relational database management
@@ -41,7 +41,6 @@ I'm an aspiring backend developer currently diving deep into C# and .NET technol
 
 ### 📫 How to reach me:
 
-- Email: faxogabek@gmail.com
 - LinkedIn: - LinkedIn: [ogabek-faxriddinov]([https://www.linkedin.com/in/ogabek-faxriddinov/](https://www.linkedin.com/in/og-abek-faxriddinov-120b6a258/))
  
 
